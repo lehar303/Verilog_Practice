@@ -1,0 +1,15 @@
+|pri_encoder_83
+i[0] => Decoder0.IN7
+i[1] => Decoder0.IN6
+i[2] => Decoder0.IN5
+i[3] => Decoder0.IN4
+i[4] => Decoder0.IN3
+i[5] => Decoder0.IN2
+i[6] => Decoder0.IN1
+i[7] => Decoder0.IN0
+y[0] <= WideOr5.DB_MAX_OUTPUT_PORT_TYPE
+y[1] <= WideOr3.DB_MAX_OUTPUT_PORT_TYPE
+y[2] <= WideOr1.DB_MAX_OUTPUT_PORT_TYPE
+v <= Decoder0.DB_MAX_OUTPUT_PORT_TYPE
+
+
